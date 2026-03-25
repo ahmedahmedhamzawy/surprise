@@ -14,7 +14,7 @@ secret_date = st.text_input("Enter the date (Format: DD/MM/YYYY):", type="passwo
 
 # --- WHAT HAPPENS WHEN SHE GETS IT RIGHT ---
 # Checking for both 26/2/2024 and 26/02/2024 just to be safe!
-if secret_date in ["26/2/2024", "26/02/2024"]:
+if secret_date in ["26/2/2024", "26/02/2024", "2622024"]:
     st.success("برااااافو على فكرة انا كمان مبنساهوش لعلمك❤️")
     st.balloons()
     
