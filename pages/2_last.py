@@ -51,3 +51,4 @@ with col2:
         st.balloons()
         st.snow() # Triggers both for a massive screen celebration!
         st.success("I love you!")
+        st.success("by the way there is many details like try write wrong date or click on the link in first page😉")
