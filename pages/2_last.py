@@ -36,7 +36,9 @@ st.markdown(
         بموت فيكي اوي اوي اوي اوي يا احلى روني <br>
         يا رب السنة الجاية نكون سوا يارب و نحتفل بيه سوا😇 <br>
         Thats all for now  Honey <br>
-        may i have some new surprises for my love next time😉
+        may i have some new surprises for my love next time😉<br>
+        او اضيف حاجة تاني عشان دا اللي جه على بالي <br>
+        المهم اني بموووت فيكي اوي اوي اوي اوي يا حبيبي يارب تعجبك🥰
     </div>
     """, 
     unsafe_allow_html=True
@@ -51,4 +53,4 @@ with col2:
         st.balloons()
         st.snow() # Triggers both for a massive screen celebration!
         st.success("I love you!")
-        st.success("by the way there is many details like try write wrong date or click on the link in first page😉")
+        st.success("ابقي جربي اكتبي تاريخ غلط 😁")
