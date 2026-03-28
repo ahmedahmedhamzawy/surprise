@@ -76,7 +76,7 @@ if st.session_state.present_opened:
         """
         <div style='text-align: center; color: #7a0016; font-size: 22px; font-style: italic; font-family: "Georgia", serif; margin-bottom: 20px;'>
             But wait, there's more...<br>
-            تعالي نتفرج على كان حاجة جميلة
+            تعالي نتفرج على كام حاجة جميلة
         </div>
         """, 
         unsafe_allow_html=True
