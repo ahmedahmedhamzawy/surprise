@@ -75,7 +75,8 @@ if st.session_state.present_opened:
     st.markdown(
         """
         <div style='text-align: center; color: #7a0016; font-size: 22px; font-style: italic; font-family: "Georgia", serif; margin-bottom: 20px;'>
-            But wait, there's more...
+            But wait, there's more...<br>
+            تعالي نتفرج على كان حاجة جميلة
         </div>
         """, 
         unsafe_allow_html=True
